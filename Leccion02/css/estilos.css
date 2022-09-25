@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+}
+p{
+    color:white;
+    background-color: crimson;
+    padding: 15px;
+    border: 10px solid powderblue;
+    /**Asi se ponen los parametros linea a linea*/
+    /*margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;*/
+    /**Asi se pueden poner en una sola linea*/
+    /**Top righ bottom left*/
+    margin: 40px 10px 20px 5  0px;
+}
+a{
+    color: azure;
+    background-color: blue;
+    padding: 5px;
+    border: 10px solid goldenrod;
+}
